@@ -9,4 +9,4 @@ eureka:
     status-page-url-path: ${server.servlet.context-path:}/swagger-ui.html
     lease-expiration-duration-in-seconds: 30
     lease-renewal-interval-in-seconds: 10
-rongly.love.name: 白素贞
+#rongly.love.name: 白素贞
